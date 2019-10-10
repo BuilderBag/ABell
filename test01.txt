@@ -1,2 +1,1 @@
-hello word
-hello git
+hello park
